@@ -26,7 +26,7 @@ export default defineConfig({
       '@': resolve(__dirname, 'src')
     }
   },
-  base: '/stuu/',
+  base: '/lxmmmmm/',
   server: {
     proxy: {
       '/api': {
